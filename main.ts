@@ -1,4 +1,4 @@
-//% color="#AAEE00" icon="\u265C"
+//% color="#AAEE00" icon="\u261D"
 //% block="ET EDrive"
 //% block.loc.nl="ET EDrive"
 namespace ETedrive {
