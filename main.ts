@@ -5,7 +5,7 @@ namespace EtEdrive {
 
     //% block="ID"
     //% block.loc.nl="ID"
-    export function id(): String {
+    export function id(): string {
         return "ET-EDrive"
     }
 
