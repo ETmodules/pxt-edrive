@@ -1,7 +1,7 @@
 //% color="#AAEE00" icon="\u2699"
-//% block="ET EDrive"
-//% block.loc.nl="ET EDrive"
-namespace ETedrive {
+//% block="ET: EDrive"
+//% block.loc.nl="ET: EDrive"
+namespace EtEdrive {
 
     //% block="ID"
     //% block.loc.nl="ID"
