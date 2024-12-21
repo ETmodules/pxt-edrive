@@ -1,4 +1,4 @@
-//% color="#AAEE00" icon="\u2699"
+//% color="#EEAA00" icon="\u2699"
 //% block="ET: EDrive"
 //% block.loc.nl="ET: EDrive"
 namespace EtEdrive {
@@ -42,7 +42,7 @@ namespace EtEdrive {
         basic.pause(time * 1000)
     }
 
-    //% color="#008800"
+    //% color="#AA6600"
     //% block="comment: %dummy"
     //% block.loc.nl="uitleg: %dummy"
     //% min.defl="schrijf hier je uitleg"
